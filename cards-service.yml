@@ -1,0 +1,5 @@
+kafka:
+  bootstrap:
+    server: "https://localhost:8092"
+app:
+  profile: "default"
